@@ -1,0 +1,1 @@
+recipes.removeShaped(<mekanism:ingot>, [[<inventorypets:nugget_obsidian>, <ore:nuggetObsidian>, <inventorypets:nugget_obsidian>], [<inventorypets:nugget_obsidian>, <inventorypets:nugget_obsidian>, <ore:nuggetObsidian>], [<inventorypets:nugget_obsidian>, <inventorypets:nugget_obsidian>, <ore:nuggetObsidian>]]);

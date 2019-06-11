@@ -1,0 +1,1 @@
+recipes.addShapeless(<immersiveengineering:metal>, [<ore:ingotCopper>]);

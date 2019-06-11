@@ -1,0 +1,1 @@
+recipes.removeShaped(<inventorypets:nugget_coal> * 8, [[<minecraft:coal>]]);

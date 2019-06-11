@@ -1,0 +1,1 @@
+recipes.addShaped(<extrabees:misc:21>, [[<ore:nuggetLapis>, <ore:nuggetLapis>, <ore:nuggetLapis>], [<ore:nuggetLapis>, null, <ore:nuggetLapis>], [<ore:nuggetLapis>, <ore:nuggetLapis>, <ore:nuggetLapis>]]);
